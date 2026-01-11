@@ -1,0 +1,78 @@
+                        "title": "Sony Liv",
+                        "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/sonyliv.jpg",
+                        "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/sonyliv.m3u",
+                        "type": "livetv",
+                        "version": "1.0",
+                        "description": "Watch All Live Tv Channels of Sony Liv"
+                    },
+                    {
+                        "title": "Jio TV",
+                        "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg", 
+                        "url": "https://m3u.ibert.workers.dev/m3u/jiotvplus.m3u",
+                        "type": "livetv",
+                        "version": "1.0",
+                        "description": "800+ Indian TV Channels from JIOTV"
+                    },
+                    {
+                        "title": "Jio Cinema",
+                        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+                        "url": "https://m3u.ibert.workers.dev/m3u/jiocinema.m3u",
+                        "type": "livetv",
+                        "version": "1.0",
+                        "description": "Jiocinema Live TV"
+                    },
+                    {
+                        "title": "Fancode",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/1200px-FanCode_logo.svg.png",
+                        "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
+                        "type": "livetv",
+                        "version": "1.0",
+                        "description": "Fancode Live Events"
+                    },
+                    {
+                        "title": "Zee 5",
+                        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nO4wJmh7M9ktKbzNomqW4ais4W3Y69b4RngbQnagV08T8=s900-c-k-c0x00ffffff-no-rj",
+                        "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/z5.m3u",
+                        "type": "livetv",
+                        "version": "1.0",
+                        "description": "Zee5 Live TV"
+                    },
+                    {
+                        "title": "Dish TV",
+                        "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/dishtv.webp",
+                        "url": "https://m3u.ibert.workers.dev/m3u/dishtv.m3u",
+                        "type": "livetv",
+                        "version": "1.0",
+                        "description": "HD Channels From Dishtv"
+                    },
+                    {
+                        "title": "Shoq TV",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrlWLa46kZ6A-l4m9SOOZSpZ3UGRi7s-LEQ&s",
+                        "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/shoq.m3u",
+                        "type": "livetv",
+                        "version": "1.0",
+                        "description": "Pakistani TV Channels"
+                    },
+                    {
+                        "title": "Dangal Play",
+                        "logo": "https://play-lh.googleusercontent.com/q61rvDyY64hAXqnx-Tk6m1sY_t3R9efheeIy0P8q_b1khx4DgcplDW-WsmqBpthDZg",
+                        "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/dangalplay.m3u",
+                        "type": "livetv",
+                        "version": "1.0",
+                        "description": "HD Channels From Dangal Play"
+                    },
+                    {
+                        "title": "YuppTV",
+                        "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/yupptv.jpg",
+                        "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/yupptv.m3u",
+                        "type": "livetv",
+                        "version": "1.0",
+                        "description": "Free Channels available of YuppTV"
+                    },
+                    {
+                        "title": "Mxplayer TV",
+                        "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/mxplayer.png",
+                        "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/mxplay.m3u",
+                        "type": "livetv",
+                        "version": "1.0",
+                        "description": "Free Channels available on MX Player"
